@@ -1,0 +1,9 @@
+chapter 2 topics
+2.1 List
+2.2 Tuple
+2.3 Dictionary
+2.4 Set
+2.5 Copy
+        soft
+        deep
+        shallow

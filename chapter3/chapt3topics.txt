@@ -1,0 +1,14 @@
+content of chapter3
+1. exceptions
+2. regular expressions
+3. files
+    3.1 text
+    3.2 pdf
+    3.3 image
+4. working with rdbms
+    4.1 oracle
+    4.2 postgresql
+5. NoSQL=>MongoDB
+6. Functions
+7. CSV files
+8. Excel
